@@ -1,0 +1,15 @@
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+uploads/*.apk
+
+models/*.pkl
+models/*.joblib
+
+.idea/
+
+androguard.db
+androguard.log
